@@ -1,2 +1,6 @@
 build
 *.sublime-workspace
+bazel-bin/
+bazel-loguru/
+bazel-out/
+MODULE.bazel.lock
